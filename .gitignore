@@ -1,0 +1,10 @@
+build
+dist
+*.spec
+usersql.py
+ico.ico
+process.md
+gui.py
+log.py
+maintain.py
+__pycache__
